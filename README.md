@@ -1,4 +1,7 @@
-# Overview of research 
-This project is using machine learning models to predict the severity of acute pancreatitis. 
+This project is using machine learning (ML) models to predict the severity of acute pancreatitis. 
 
+# Background
+Acute pancreatitis (AP) represents a prevalent abdominal condition characterized by significant rates of morbidity and mortality. The ability to predict the severity of AP in patients is crucial for effective treatment and management. Various severity classification systems for AP have been developed to categorize patient populations uniformly and facilitate the stratification of severity levels. Recognizing the limitations inherent in traditional clinical scoring systems, such as the Acute Physiology and Chronic Health Evaluation II and Glasgow-Imrie Criteria, in terms of their predictive accuracy and efficiency, recent research has shifted towards the creation of ML models. These models, grounded in the Revised Atlanta Classification (RAC), aim to differentiate between severe and mild AP cases. Nonetheless, current studies exhibit a lack of comprehensive evaluation regarding the ability of ML models to accurately predict AP severity across different severity definitions, as well as a dearth of research into their capability to predict the various stages of AP severity, including mild, moderate, severe, and critical stages.
 
+# Objecttives
+The primary objectives of this study are to train and rigorously evaluate ML models for the prediction of AP severity, utilizing a comprehensive dataset of routinely collected patient information via both binary and multi-class classification. And it also optimizes the models and idenfies the improtance features based on the retrospective dataset.
